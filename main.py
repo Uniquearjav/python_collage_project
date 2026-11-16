@@ -1,7 +1,4 @@
 """
-PYTHON SHOPPING MANAGEMENT SYSTEM
-No JSON, no hashlib, no external libraries.
-
 Features:
 - Separate Admin and Customer menus
 - Password-protected Admin section
