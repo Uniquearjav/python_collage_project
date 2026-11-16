@@ -1,7 +1,29 @@
-
 # Python Shopping Management System
 
-A menu-driven shopping management system developed using Python. It runs in the terminal and provides separate Admin and Customer sections.
+**Academic Project**
+
+## Submitted To
+
+**Lachoo Memorial College, Jodhpur, Rajasthan**
+
+## Project Developed By
+
+| S. No. | Student Name |
+|---|---|
+| 1 | Arjav Choudhary |
+| 2 | Arhaan Saadiq |
+| 3 | Bhanu Pratap Singh |
+
+**Class:** BCA J1  
+**Semester:** 3rd Semester
+
+---
+
+## Project Introduction
+
+The Python Shopping Management System is a menu-driven application developed using Python. It provides separate Admin and Customer sections to manage products, shopping carts, customer information, and orders.
+
+The project demonstrates fundamental Python programming concepts through a practical shopping management application.
 
 ## Features
 
@@ -95,16 +117,7 @@ Shopping-Management-System/
 └── README.md
 ```
 
-## Important Notes
-
-- The application uses Python lists and dictionaries for data storage.
-- Product and order data are stored temporarily in memory.
-- All data resets when the program is closed.
-- UPI and Card payments are demo options only.
-- No real payment transactions are processed.
-- Mobile number validation checks the format but does not verify ownership.
-
-## Technologies Used
+## Technologies and Concepts Used
 
 - Python
 - Lists
@@ -114,6 +127,24 @@ Shopping-Management-System/
 - Loops
 - Exception Handling
 
-## Purpose
+## Important Notes
 
-This project is developed for educational purposes to demonstrate Python programming concepts through a practical shopping management application.
+- The application uses Python lists and dictionaries for data storage.
+- Product and order data are stored temporarily in memory.
+- All data resets when the program is closed.
+- UPI and Card payments are demo options only.
+- No real payment transactions are processed.
+- Mobile number validation checks the format but does not verify ownership.
+
+---
+
+## Acknowledgement
+
+This project has been developed as part of the academic learning activities of **BCA J1, 3rd Semester, Lachoo Memorial College, Jodhpur**.
+
+**Project Contributors:**
+- Arjav Choudhary
+- Arhaan Saadiq
+- Bhanu Pratap Singh
+
+**Institution:** Lachoo Memorial College, Jodhpur, Rajasthan.
